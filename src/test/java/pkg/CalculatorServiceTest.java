@@ -15,7 +15,7 @@ class CalculatorServiceTest {
 
 	@Test
 	void addTest() {
-		assertEquals(service.add(2, 6), 8);
+		assertEquals(service.add(2, 6), 2);
 	}
 
 	@Test
